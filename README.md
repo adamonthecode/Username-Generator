@@ -1,5 +1,5 @@
 # Username-Generator
-A simple Python username generator which was created using a file which contains random strings. With this, it will choose two random words in combination with random numbers and it will then generate a random username.
+A simple Python username generator which was created using a file that contains random strings. With this, it will choose two random words in combination with random numbers and it will then generate a random username.
 
 # The benefits of this Username Generator
 - Username will be unique
