@@ -2,9 +2,9 @@
 Simple Python generator using a file which contains numerous random stings. With this, it will choose two random words in combination with random numbers it will then generate a random username
 
 # The benefits of this username generator
-Username will be unique
-Easy to run
-Fast setup
+- Username will be unique
+- Easy to run
+- Fast setup
 
 # Installation
 Username Generator requires any Python v3+ to run.
